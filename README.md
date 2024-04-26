@@ -31,7 +31,8 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
+```
+
 <!DOCTYPE html>
 <html>
 
@@ -154,10 +155,10 @@ Publish the website in the LocalHost.
             </div>
         </div>
         </body>
-        
-
 </html>
-'''
+
+
+```
 
 ## OUTPUT:
 
