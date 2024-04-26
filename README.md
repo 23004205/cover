@@ -32,7 +32,6 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 '''
-
 <!DOCTYPE html>
 <html>
 
@@ -139,7 +138,7 @@ Publish the website in the LocalHost.
             </div>
 
             <div class="mypic">
-                <img src="mypic1.jpg" width="100" height="100" >
+                <img src="my photo1.jpg" width="100" height="100" >
             </div>
             <div class="id">
                 <hr style="color:blanchedalmond">
@@ -158,7 +157,6 @@ Publish the website in the LocalHost.
         
 
 </html>
-
 '''
 
 ## OUTPUT:
